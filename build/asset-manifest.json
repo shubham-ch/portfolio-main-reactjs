@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18c476ba.css",
+    "main.js": "/static/js/main.de6efa6e.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/coronaapp.png": "/static/media/coronaapp.83868d87ae5de81c5839.png",
+    "static/media/CV_Shubham_Kumar_Chaurasia.pdf": "/static/media/CV_Shubham_Kumar_Chaurasia.e2aa4a95aa709321744a.pdf",
+    "static/media/wcs.png": "/static/media/wcs.287c737ed18c2fe1ca3b.png",
+    "static/media/profilephoto.jpg": "/static/media/profilephoto.7f723cd73a6a421aea93.jpg",
+    "static/media/overlay.png": "/static/media/overlay.595017d5dc56e12ce7f6.png",
+    "static/media/database.png": "/static/media/database.312a63a93d62ce754ddb.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/travelbuddy.jpg": "/static/media/travelbuddy.e5eef47b96e6fff7e375.jpg",
+    "static/media/physicshw.jpg": "/static/media/physicshw.e8ceea42713c7ce5af26.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/urlkeeper.png": "/static/media/urlkeeper.567d5776ff886b36ef51.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
+    "main.de6efa6e.js.map": "/static/js/main.de6efa6e.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c476ba.css",
+    "static/js/main.de6efa6e.js"
+  ]
+}
