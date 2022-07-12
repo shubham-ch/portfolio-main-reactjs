@@ -15,9 +15,9 @@ import {
 
 } from "react-icons/di";
 import {
-  SiPytorch,
-  SiFirebase,
-  SiNextdotjs,
+  //SiPytorch,
+  //SiFirebase,
+  //SiNextdotjs,
   SiVuedotjs,
   SiFlask,
   SiHaskell,
