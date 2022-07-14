@@ -52,7 +52,7 @@ function Projects() {
               imgPath={overlay}
               isBlog={false}
               title="Overlay VR/AR app using rasdaman"
-              description="An app in unity designed using mapbox api. This uses a Globe as a base where the data is extracted from Rasdaman (an n-dimensional array) and overlay image on a particular langitude and latitude."
+              description="An app in unity designed using mapbox api. This uses a Globe as a base where the data is extracted from Rasdaman (an n-dimensional array) and overlay image on a particular longitude and latitude."
               ghLink="https://github.com/shubham-ch/overlay-rasdamanVR"
                             
             />
@@ -63,7 +63,7 @@ function Projects() {
               imgPath={coronaapp}
               isBlog={false}
               title="Corona app"
-              description="This app stores the data from user and helps people to warn if an infected person is near them. It is built with flask. This app also stores hospital and agent data where hospitals can add data for infected people."
+              description="This app stores the status of infection for people to warn if an infected person is near them. It is built with flask. This app also stores hospital and agent data where hospitals can add data for infected people."
               ghLink="https://github.com/shubham-ch/corona-app"
               
             />
