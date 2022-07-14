@@ -30,7 +30,7 @@ function Projects() {
               imgPath={urlkeeper}
               isBlog={false}
               title="URL keeper"
-              description="This is a javascript extension for browsers which helps to store urls for the user. The user can add and delete the url directly from browser with one click through the extension."
+              description="This is a javascript extension for browsers that helps to store URLs for the user. The user can add and delete the URL directly from the browser with one click through the extension."
               ghLink="https://github.com/shubham-ch/JS-projects/tree/master/chrome-extension"
               
             />
@@ -41,7 +41,7 @@ function Projects() {
               imgPath={wcs}
               isBlog={false}
               title="Queries from rasdaman in VR/AR app"
-              description="An app in Virtual Reality which uses a n-dimensional array called rasdaman as a data source to extract various images of earth and let the user interact with the objects through a VR device."
+              description="An app in Virtual Reality which uses an n-dimensional array called Rasdaman as a data source to extract various images of earth and let the user interact with the objects through a VR device."
               ghLink="https://github.com/shubham-ch/wcs-wcps-wms-rasdamanVR"
                             
             />
@@ -52,7 +52,7 @@ function Projects() {
               imgPath={overlay}
               isBlog={false}
               title="Overlay VR/AR app using rasdaman"
-              description="An app in unity designed using mapbox api. This uses a Globe as a base where the data is extracted from rasdaman (a n-dimensional array) and overlay image on a particular langitude and latitude."
+              description="An app in unity designed using mapbox api. This uses a Globe as a base where the data is extracted from Rasdaman (an n-dimensional array) and overlay image on a particular langitude and latitude."
               ghLink="https://github.com/shubham-ch/overlay-rasdamanVR"
                             
             />
@@ -74,7 +74,7 @@ function Projects() {
               imgPath={database}
               isBlog={false}
               title="Database for museum"
-              description="The funcionality of this backend system is to supply data to the various frontends like Augmented Reality devices, Virtual Reality devices, monitors e.t.c in a high-tech hybrid museum."
+              description="The functionality of this backend system is to supply data to the various frontends like Augmented Reality devices, Virtual Reality devices, monitors e.t.c in a high-tech hybrid museum."
               ghLink="https://github.com/shubham-ch/museum-backend"
               
             />
@@ -85,7 +85,7 @@ function Projects() {
               imgPath={physicshw}
               isBlog={false}
               title="Homework Predictor"
-              description="In my university 'Jacobs University' there are students from more than 110 nationalities and not everyone have the same education background. So, this app will help professors predict the homeworks appropriate for a certain student."
+              description="At my university 'Jacobs University' there are students from more than 110 nationalities and not everyone has the same educational background. So, this app will help professors predict the homework appropriate for a certain student."
               ghLink="https://github.com/shubham-ch/jacobs-physicsDB-project"
             />
           </Col>
@@ -96,7 +96,7 @@ function Projects() {
               imgPath={travelbuddy}
               isBlog={false}
               title="travel buddy"
-              description="Travelling alone and want a travel buddy at some point of time during the travel. This is the app. It helps matching like minded and people having same interests for travelling together."
+              description="Traveling alone and want a travel buddy at some point of time during the travel. This is the app. It helps match like-minded people having the same interests in travelling together."
               ghLink="https://github.com/enismustafaj/travel-buddy"
               
             />
